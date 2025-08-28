@@ -10,9 +10,6 @@
 
 ### Glad to see you here!  
 A full-stack and AI developer with a background in freelancing, I now build end-to-end web applications powered by robust backends and integrated artificial intelligence. My unique skill set also includes two years of embedded systems experience, developing software for platforms like Raspberry Pi, AVR, ESP, and STM32 using Qt and Flutter.  
-  
-
-<br/>  
 
 
 ### My experience  

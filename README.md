@@ -15,6 +15,10 @@ A full-stack and AI developer with a background in freelancing, I now build end-
 <br/>  
 
 
+### My experience  
+With four years of software development experience, I have a strong foundation in both frontend and backend technologies. My career began with a focus on IoT, where I designed and developed applications for hardware platforms using Qt and Flutter. More recently, I have specialized in backend development with Django and Nest.js, while also contributing to frontend projects using Vue.js.  
+  
+
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
@@ -87,11 +91,6 @@ A full-stack and AI developer with a background in freelancing, I now build end-
 <br/>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadashrafi-py&" alt="mohamadashrafi-py" /></p>
-
-
-### My experience  
-With four years of software development experience, I have a strong foundation in both frontend and backend technologies. My career began with a focus on IoT, where I designed and developed applications for hardware platforms using Qt and Flutter. More recently, I have specialized in backend development with Django and Nest.js, while also contributing to frontend projects using Vue.js.  
-  
 
 <br/>  
 

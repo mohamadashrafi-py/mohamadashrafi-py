@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I’m a developer who has turned years of freelancing into a full-time career. Being a full-stack and ai allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support as well as blending it with ai. I have 2 year experience in some platforms like raspberry pi, Avr, esp, smt32 and application programming in Qt and flutter.  
+A full-stack and AI developer with a background in freelancing, I now build end-to-end web applications powered by robust backends and integrated artificial intelligence. My unique skill set also includes two years of embedded systems experience, developing software for platforms like Raspberry Pi, AVR, ESP, and STM32 using Qt and Flutter.  
   
 
 <br/>  
@@ -90,9 +90,15 @@ I’m a developer who has turned years of freelancing into a full-time career. B
 
 
 ### My experience  
-I have 4 year experience in programming. At first and second year i was working on hardware platforms and designing application via some framework such as Qt for them also designing some application with flutter for iot projects. Then it comes to third and forth year which i was mostly working on Django and nest.js, but i also worked on frontend framework like vue.js.  
+With four years of software development experience, I have a strong foundation in both frontend and backend technologies. My career began with a focus on IoT, where I designed and developed applications for hardware platforms using Qt and Flutter. More recently, I have specialized in backend development with Django and Nest.js, while also contributing to frontend projects using Vue.js.  
   
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mohamadashrafi-py&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />

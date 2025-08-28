@@ -33,6 +33,7 @@ A full-stack and AI developer with a background in freelancing, I now build end-
 <img src="https://files.realpython.com/media/Get-Started-With-Django_Watermarked.15a1e05597bc.jpg" align="center" style="width: 100%" />
 </div>  
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadashrafi-py&" alt="mohamadashrafi-py" /></p>
 
 </td></tr></table>  
 

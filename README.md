@@ -96,12 +96,6 @@ I have 4 year experience in programming. At first and second year i was working 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mohamadashrafi-py&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

@@ -19,7 +19,7 @@ With four years of software development experience, I have a strong foundation i
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning React.js and tailwind  
+- 🌱 I’m currently learning Devops
   
 
 - ❓ Ask me about anything related to backend and frontend also hardware platforms  
